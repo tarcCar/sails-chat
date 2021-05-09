@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://ember-chat-cli.herokuapp.com/',
+      'https://ember-chat-cli.herokuapp.com',
     ],
 
 
