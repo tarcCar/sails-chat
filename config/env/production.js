@@ -252,6 +252,7 @@ module.exports = {
     ***************************************************************************/
     onlyAllowOrigins: [
       'https://ember-chat-cli.herokuapp.com',
+      'http://ember-chat-cli.herokuapp.com',
     ],
 
 
@@ -324,7 +325,7 @@ module.exports = {
     * (https://sailsjs.com/config/http)                                        *
     *                                                                          *
     ***************************************************************************/
-    // trustProxy: true,
+    trustProxy: true,
 
   },
 
